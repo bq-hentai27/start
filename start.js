@@ -1,6 +1,6 @@
 /*!
  * start.js
- * bq-hentai
+ * bq-hentai | 12/01/2016
  */
 
 ~(function(global) {
